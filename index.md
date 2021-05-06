@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 飒飒法发挖坟挖坟挖法
 
 You can use the [editor on GitHub](https://github.com/310887497/QQ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
